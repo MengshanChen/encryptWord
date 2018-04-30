@@ -1,0 +1,33 @@
+/Users/ericachen/Projects/project01/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.csprojResolveAssemblyReference.cache
+/Users/ericachen/Projects/project01/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.csproj.CoreCompileInputs.cache
+/Users/ericachen/Projects/project01/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.AssemblyInfoInputs.cache
+/Users/ericachen/Projects/project01/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.AssemblyInfo.cs
+/Users/ericachen/Projects/project01/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.deps.json
+/Users/ericachen/Projects/project01/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.runtimeconfig.json
+/Users/ericachen/Projects/project01/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.runtimeconfig.dev.json
+/Users/ericachen/Projects/project01/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.dll
+/Users/ericachen/Projects/project01/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.pdb
+/Users/ericachen/Projects/project01/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.dll
+/Users/ericachen/Projects/project01/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.pdb
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/project01/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.deps.json
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/project01/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.runtimeconfig.json
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/project01/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.runtimeconfig.dev.json
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/project01/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.dll
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/project01/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.pdb
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/project01/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.csprojResolveAssemblyReference.cache
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/project01/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.csproj.CoreCompileInputs.cache
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/project01/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.AssemblyInfoInputs.cache
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/project01/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.AssemblyInfo.cs
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/project01/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.dll
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/project01/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.pdb
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/p1_encryptWord/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.deps.json
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/p1_encryptWord/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.runtimeconfig.json
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/p1_encryptWord/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.runtimeconfig.dev.json
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/p1_encryptWord/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.dll
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/p1_encryptWord/p1_encryptWord/bin/Debug/netcoreapp2.0/p1_encryptWord.pdb
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/p1_encryptWord/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.csprojResolveAssemblyReference.cache
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/p1_encryptWord/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.csproj.CoreCompileInputs.cache
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/p1_encryptWord/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.AssemblyInfoInputs.cache
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/p1_encryptWord/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.AssemblyInfo.cs
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/p1_encryptWord/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.dll
+/Users/ericachen/Library/Mobile Documents/com~apple~CloudDocs/current projects/p1_encryptWord/p1_encryptWord/obj/Debug/netcoreapp2.0/p1_encryptWord.pdb

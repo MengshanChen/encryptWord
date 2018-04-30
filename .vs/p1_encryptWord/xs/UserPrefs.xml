@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FCC4ED37-27B4-446B-8FBF-12EC1D25A3C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="p1_encryptWord/encryptWord.cs">
+    <Files>
+      <File FileName="p1_encryptWord/main.cs" Line="63" Column="1" />
+      <File FileName="p1_encryptWord/driver.cs" Line="17" Column="9" />
+      <File FileName="p1_encryptWord/encryptWord.cs" Line="17" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.p1__encryptWord PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
